@@ -24,7 +24,7 @@
     <a href="https://github.com/ConnorAlbert/To-do"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://my-to-do-app.herokuapp.com/">View Demo</a>
+    <a href="https://f2p-game.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/ConnorAlbert/To-do/issues">Report Bug</a>
     ·
@@ -127,7 +127,7 @@ Don't forget to give the project a star! Thanks again!
 
 Connor Albert - connoralbert23@hotmail.com
 
-Project Link: <a href="https://my-to-do-app.herokuapp.com/">View Demo</a>
+Project Link: <a href="https://f2p-game.netlify.app">View Demo</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
